@@ -2,11 +2,6 @@
 
 # Jithin S 👋
 
-![Profile Views](https://gpvc.arturio.dev/jithinjithu10)
-![GitHub Followers](https://img.shields.io/github/followers/jithinjithu10?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/jithinjithu10?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/jithinjithu10?style=social)
-
 ## 🚀 About Me
 - 🔭 I’m currently working on **Fuel Delivery Management App** and **Product Management Web Application**.
 - 🌱 I’m learning **Generative AI** techniques and enhancing user experiences in mobile and web applications.
