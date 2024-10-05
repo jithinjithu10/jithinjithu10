@@ -61,33 +61,33 @@
 
 ### Languages:
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
 </p>
 
 ### Tools:
 <p>
-  <img src="https://img.shields.io/badge/WAMP-5B2E6E?style=flat-square&logo=wamp&logoColor=white" alt="WAMP" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" alt="Eclipse" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/MySQL-005C7A?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/XAMPP-FC4D5D?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda" />
-  <img src="https://img.shields.io/badge/Jupyter-DA5B0E?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" alt="Microsoft PowerPoint" />
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" alt="Microsoft Word" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <a href="https://www.wampserver.com/en/"><img src="https://skillicons.dev/icons?i=wamp" alt="WAMP" /></a>
+  <a href="https://www.eclipse.org/"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://www.apachefriends.org/index.html"><img src="https://skillicons.dev/icons?i=xampp" alt="XAMPP" /></a>
+  <a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></a>
+  <a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://skillicons.dev/icons?i=excel" alt="Microsoft Excel" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://skillicons.dev/icons?i=powerpoint" alt="Microsoft PowerPoint" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://skillicons.dev/icons?i=word" alt="Microsoft Word" /></a>
+  <a href="https://colab.research.google.com/"><img src="https://skillicons.dev/icons?i=googlecolab" alt="Google Colab" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
 </p>
 
