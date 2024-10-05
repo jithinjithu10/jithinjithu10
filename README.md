@@ -60,34 +60,31 @@
 ## Tools & Languages
 
 ### Languages:
-<p>
-  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-  <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
-  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" alt="Django" /></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" /></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-</p>
+- [PHP](https://www.php.net/) <i class="devicon-php-plain"></i>
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <i class="devicon-javascript-plain"></i>
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) <i class="devicon-html5-plain"></i>
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) <i class="devicon-css3-plain"></i>
+- [React](https://reactjs.org/) <i class="devicon-react-original"></i>
+- [Django](https://www.djangoproject.com/) <i class="devicon-django-plain"></i>
+- [Flask](https://flask.palletsprojects.com/) <i class="devicon-flask-plain"></i>
+- [Node.js](https://nodejs.org/) <i class="devicon-nodejs-plain"></i>
+- [SQL](https://www.w3schools.com/sql/) <i class="devicon-sql-plain"></i>
+- [Kotlin](https://kotlinlang.org/) <i class="devicon-kotlin-plain"></i>
+- [Java](https://www.oracle.com/java/) <i class="devicon-java-plain"></i>
 
 ### Tools:
-<p>
-  <a href="https://www.wampserver.com/en/"><img src="https://skillicons.dev/icons?i=wamp" alt="WAMP" /></a>
-  <a href="https://www.eclipse.org/"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-  <a href="https://www.apachefriends.org/index.html"><img src="https://skillicons.dev/icons?i=xampp" alt="XAMPP" /></a>
-  <a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" /></a>
-  <a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" /></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://skillicons.dev/icons?i=excel" alt="Microsoft Excel" /></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://skillicons.dev/icons?i=powerpoint" alt="Microsoft PowerPoint" /></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://skillicons.dev/icons?i=word" alt="Microsoft Word" /></a>
-  <a href="https://colab.research.google.com/"><img src="https://skillicons.dev/icons?i=googlecolab" alt="Google Colab" /></a>
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
-</p>
+- [WAMP](http://www.wampserver.com/en/) <i class="devicon-wamp-plain"></i>
+- [Eclipse](https://www.eclipse.org/) <i class="devicon-eclipse-plain"></i>
+- [Visual Studio Code](https://code.visualstudio.com/) <i class="devicon-vscode-plain"></i>
+- [Git](https://git-scm.com/) <i class="devicon-git-plain"></i>
+- [GitHub](https://github.com/) <i class="devicon-github-plain"></i>
+- [MySQL](https://www.mysql.com/) <i class="devicon-mysql-plain"></i>
+- [XAMPP](https://www.apachefriends.org/index.html) <i class="devicon-xampp-plain"></i>
+- [Anaconda](https://www.anaconda.com/) <i class="devicon-anaconda-plain"></i>
+- [Jupyter Notebook](https://jupyter.org/) <i class="devicon-jupyter-plain"></i>
+- [Postman](https://www.postman.com/) <i class="devicon-postman-plain"></i>
+- [Google Colab](https://colab.research.google.com/) <i class="devicon-googlecolab-plain"></i>
+- [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel) <i class="devicon-excel-plain"></i>
+- [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint) <i class="devicon-powerpoint-plain"></i>
+- [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/word) <i class="devicon-word-plain"></i>
 
