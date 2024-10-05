@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jithin S</h1>
 
-![Profile Views](https://gpvc.arturio.dev/jithins2003)
-![GitHub Followers](https://img.shields.io/github/followers/jithins2003?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/jithins2003?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/jithins2003?style=social)
+# Jithin S 👋
+
+![Profile Views](https://gpvc.arturio.dev/jithinjithu10)
+![GitHub Followers](https://img.shields.io/github/followers/jithinjithu10?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/jithinjithu10?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/jithinjithu10?style=social)
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Fuel Delivery Management App** and **Product Management Web Application**.
@@ -22,18 +24,16 @@
 
 ## 📈 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jithinjithu10&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jithinjithu10&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jithinjithu10&theme=radical)
+[![Wakatime Stats](https://wakatime.com/badge/user/jithinjithu10.svg)](https://wakatime.com/@jithinjithu10)
 
 ## ⭐ Pinned Repositories
 - **[Fuel Delivery Management App](#)**: A PHP-based application for optimizing fuel logistics.
 - **[Product Management Web Application](#)**: A web app built using the MERN stack to streamline inventory management.
-
-## 📝 Articles
-- [Creating an Amazing README for Your GitHub Profile](#)
-- [Best Repositories to Learn Faster](#)
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jithins2003)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jithin_online_/)
 
 ---
-
