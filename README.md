@@ -3,7 +3,6 @@
 # Jithin S 👋
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Fuel Delivery Management App** and **Product Management Web Application**.
 - 🌱 I’m learning **Generative AI** techniques and enhancing user experiences in mobile and web applications.
 - 💼 I’ve interned as an **Android Developer** at Google and worked as a **Digital Marketer**.
 - 📫 Reach me: [jithinyakkara@gmail.com](mailto:jithinyakkara@gmail.com)
