@@ -46,4 +46,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jithin_online_/)
 
 ---
+<!-- GitHub Stats -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jithinjithu10&show_icons=true&theme=radical)
+
+<!-- Most Used Languages -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jithinjithu10&layout=compact&theme=radical)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jithinjithu10&theme=radical)
 
