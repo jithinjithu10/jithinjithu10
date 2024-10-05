@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jithin S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-# 👋 Hi, I'm Jithin S
 
 I’m a **software developer** and **digital marketer** with hands-on experience in **mobile development**, **web technologies**, and **artificial intelligence**. I am passionate about building efficient, scalable solutions and thrive on the intersection of technology and business strategy.
 
