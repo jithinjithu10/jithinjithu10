@@ -57,10 +57,9 @@
 <!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jithinjithu10&theme=radical)
 
-## Tools & Languages
-
+### Languages and Tools:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-### Languages:
+
 - [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 - [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -72,8 +71,7 @@
 - [![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 - [![Kotlin](https://img.shields.io/badge/Kotlin-7F52B2?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 - [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
-
-### Tools:
+  
 - [![WAMP](https://img.shields.io/badge/WAMP-5B2E6E?style=flat-square&logo=wamp&logoColor=white)](http://www.wampserver.com/en/)
 - [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
 - [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
