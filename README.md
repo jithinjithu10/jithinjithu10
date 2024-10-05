@@ -32,11 +32,6 @@
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-## 📈 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jithinjithu10&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jithinjithu10&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jithinjithu10&theme=radical)
-
 ## 📁 Previous Projects
 - **Fuel Delivery Management App**: A PHP-based application for optimizing fuel logistics.
 - **Product Management Web Application**: A web app built using the MERN stack to streamline inventory management.
@@ -46,6 +41,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jithin_online_/)
 
 ---
+## 📈 My GitHub Stats
+
 <!-- GitHub Stats -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jithinjithu10&show_icons=true&theme=radical)
 
