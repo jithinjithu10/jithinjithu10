@@ -59,6 +59,7 @@
 
 ## Tools & Languages
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 ### Languages:
 - [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 - [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
