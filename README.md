@@ -21,7 +21,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## 📈 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jithins2003&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jithinsjithu10&show_icons=true&theme=radical)
 
 ## ⭐ Pinned Repositories
 - **[Fuel Delivery Management App](#)**: A PHP-based application for optimizing fuel logistics.
