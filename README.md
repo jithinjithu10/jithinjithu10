@@ -1,78 +1,39 @@
 <h1 align="center">Hi 👋, I'm Jithin S</h1>
 
-# Jithin S
+![Profile Views](https://gpvc.arturio.dev/jithins2003)
+![GitHub Followers](https://img.shields.io/github/followers/jithins2003?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/jithins2003?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/jithins2003?style=social)
 
-👋 Hello! I’m Jithin S, a passionate **software developer** and **digital marketer**. I specialize in **mobile development**, **web technologies**, and **AI**. My mission is to create efficient and scalable solutions that bridge technology with business strategy.
+## 🚀 About Me
+- 🔭 I’m currently working on **Fuel Delivery Management App** and **Product Management Web Application**.
+- 🌱 I’m learning **Generative AI** techniques and enhancing user experiences in mobile and web applications.
+- 💼 I’ve interned as an **Android Developer** at Google and worked as a **Digital Marketer**.
+- 📫 Reach me: [jithinyakkara@gmail.com](mailto:jithinyakkara@gmail.com)
+- ⚡ Fun fact: I enjoy exploring new technologies and innovative solutions.
 
-## Badges
+## 🛠️ Languages and Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52B2?style=flat-square&logo=kotlin&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-![GitHub followers](https://img.shields.io/github/followers/jecrs687?style=social)
-![GitHub stars](https://img.shields.io/github/stars/jecrs687?style=social)
-![GitHub forks](https://img.shields.io/github/forks/jecrs687?style=social)
+## 📈 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jithins2003&show_icons=true&theme=radical)
 
-## Table of Contents
-- [Professional Experience](#professional-experience)
-- [Core Skills](#core-skills)
-- [Currently Learning](#currently-learning)
-- [Notable Projects](#notable-projects)
-- [Let's Connect](#lets-connect)
+## ⭐ Pinned Repositories
+- **[Fuel Delivery Management App](#)**: A PHP-based application for optimizing fuel logistics.
+- **[Product Management Web Application](#)**: A web app built using the MERN stack to streamline inventory management.
 
-## Professional Experience
+## 📝 Articles
+- [Creating an Amazing README for Your GitHub Profile](#)
+- [Best Repositories to Learn Faster](#)
 
-- **Digital Marketer**
-  - Developed data-driven strategies that enhanced brand reach and engagement.
-  
-- **Android Developer Intern (Google)**
-  - Focused on developing and optimizing mobile applications for improved user experiences.
-  
-- **Business Analytics Intern (Cognifyz)**
-  - Applied data analysis to derive insights and support strategic decision-making.
-  
-- **Course Completion**
-  - Completed the **‘Introduction to Generative AI Studio’** course by SkillUp by Simplilearn.
-
-## Core Skills
-
-- **Mobile App Development**: 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
-  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52B2?style=flat-square&logo=kotlin&logoColor=white) 
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-- **Web Development**: 
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-- **Data Analysis**: 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) 
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-- **Digital Marketing**: SEO, SEM, Content Strategy
-- **Database Management**: 
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white) 
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-## Currently Learning
-
-- Advanced **Generative AI** techniques
-- Enhancing user experiences in **mobile and web applications**
-
-## Notable Projects
-
-- **Fuel Delivery Management Application**
-  - Developed with **PHP**, focusing on optimizing logistics for fuel deliveries.
-  
-- **Product Management Web Application**
-  - Built using the **MERN stack** (MongoDB, Express, React, Node.js) to streamline inventory and workflow management.
-
-## Let's Connect
-
-- **Email**: [jithinyakkara@gmail.com](mailto:jithinyakkara@gmail.com)  
-- **LinkedIn**: [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jithins2003)  
-- **Instagram**: [![Instagram Profile](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=instagram)](https://www.instagram.com/jithin_online_/)
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jithins2003)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jithin_online_/)
 
 ---
 
