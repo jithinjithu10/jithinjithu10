@@ -96,11 +96,20 @@ Designed and executed digital strategies focused on growth and engagement.
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=jithinjithu10&color=blue&style=flat" />
 </p>
 
-<!-- GitHub cards -->
+<!-- GitHub cards (FIXED WORKING LINKS) -->
 <p>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jithinjithu10&show_icons=true&theme=default" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithinjithu10&layout=compact&theme=default" />
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jithinjithu10&theme=default" />
+  <img alt="GitHub stats"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jithinjithu10&show_icons=true&theme=default" />
+</p>
+
+<p>
+  <img alt="Top Languages"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jithinjithu10&layout=compact&theme=default" />
+</p>
+
+<p>
+  <img alt="Streak"
+       src="https://streak-stats.demolab.com?user=jithinjithu10&theme=default" />
 </p>
 
 ---
@@ -111,7 +120,3 @@ Designed and executed digital strategies focused on growth and engagement.
 - Email: jithinyakkara@gmail.com
 
 ---
-
-## Notes
-- This profile is targeted toward research collaborators and potential academic/phd opportunities in quantum communication and secure quantum systems.  
-- If you want a version optimized for a PhD application (short research statement, publications list, and CV link), I can prepare that next.
