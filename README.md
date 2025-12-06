@@ -93,24 +93,24 @@ Designed and executed digital strategies focused on growth and engagement.
 
 <!-- Visitor count -->
 <p>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=jithinjithu10&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=jithinjithu10&color=blue&style=flat" />
 </p>
 
-<!-- GitHub cards (FIXED WORKING LINKS) -->
+<!-- GitHub Stats -->
 <p>
-  <img alt="GitHub stats"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jithinjithu10&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jithinjithu10&show_icons=true&theme=default" />
 </p>
 
+<!-- Top Languages -->
 <p>
-  <img alt="Top Languages"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jithinjithu10&layout=compact&theme=default" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jithinjithu10&layout=compact&theme=default" />
 </p>
 
+<!-- Streak Stats -->
 <p>
-  <img alt="Streak"
-       src="https://streak-stats.demolab.com?user=jithinjithu10&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=jithinjithu10&theme=default" />
 </p>
+
 
 ---
 
