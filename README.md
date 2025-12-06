@@ -2,20 +2,6 @@
 
 <h1 align="center">Hi, I'm Jithin S</h1>
 
-<p align="center">
-  <!-- Core skill badges -->
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52B2?style=flat-square&logo=kotlin&logoColor=white" />
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-</p>
-
 ---
 
 ## About
@@ -46,25 +32,52 @@ Designed and executed digital strategies focused on growth and engagement.
 ---
 
 ## Skills
+<!-- Quantum & Research -->
+![QKD](https://img.shields.io/badge/QKD-14354C?style=for-the-badge&logo=quantconnect&logoColor=white)
+![Quantum Communication](https://img.shields.io/badge/Quantum_Communication-000000?style=for-the-badge)
+![Quantum Cryptography](https://img.shields.io/badge/Quantum_Cryptography-0A0A0A?style=for-the-badge)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=Qiskit&logoColor=white)
+![Google Cirq](https://img.shields.io/badge/Google_Cirq-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
+![IBM Quantum Composer](https://img.shields.io/badge/IBM_Quantum_Composer-052FAD?style=for-the-badge&logo=IBM&logoColor=white)
 
-### Quantum & Research Tooling
-- Qiskit  
-- Google Cirq  
-- IBM Quantum Composer  
-- Quantum experiment workflows and hardware interfacing
+<!-- Programming -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Machine Learning & Scientific Computing
-- Machine learning model design and evaluation  
-- NumPy  
-- PyTorch  
-- Ensemble learning
+<!-- Web & App Development -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Software & Development
-- Python, SQL, Git, VS Code  
-- Android (Java, Kotlin)  
-- React, JavaScript, HTML, CSS, Django
+<!-- Machine Learning -->
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=ai&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
----
+<!-- Tools -->
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+
 
 ## Projects
 
