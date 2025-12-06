@@ -57,12 +57,12 @@ Designed and executed digital strategies focused on growth and engagement.
 - Machine learning model design and evaluation  
 - NumPy  
 - PyTorch  
-- Ensemble learning (Mixture of Experts / weighted routing)
+- Ensemble learning
 
 ### Software & Development
 - Python, SQL, Git, VS Code  
 - Android (Java, Kotlin)  
-- React, JavaScript, HTML, CSS, Django (kept for full project context)
+- React, JavaScript, HTML, CSS, Django
 
 ---
 
