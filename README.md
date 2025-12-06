@@ -32,7 +32,7 @@ Designed and executed digital strategies focused on growth and engagement.
 ---
 
 ## Skills
-**Quantum & Research**
+**Quantum & Research** <br>
 ![QKD](https://img.shields.io/badge/QKD-14354C?style=for-the-badge&logo=quantconnect&logoColor=white)
 ![Quantum Communication](https://img.shields.io/badge/Quantum_Communication-000000?style=for-the-badge)
 ![Quantum Cryptography](https://img.shields.io/badge/Quantum_Cryptography-0A0A0A?style=for-the-badge)
