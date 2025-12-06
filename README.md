@@ -19,17 +19,17 @@
 ---
 
 ## About
-I focus on **Quantum Communication** and **Quantum Cryptography**, with applied experience in secure channels, quantum-aware system design, and machine learning for security tasks. I combine experimental research, applied development, and reproducible pipelines to solve real-world problems in quantum-safe communications and malware detection.
+I focus on **Quantum Communication** and **Quantum Cryptography**, with applied experience in secure channels, quantum-aware system design, and machine learning for security tasks. I combine experimental research, applied development, and reproducible pipelines to solve real-world problems in quantum-safe communications and cryptography.
 
 - Primary research interests: Quantum Communication, Quantum Cryptography, Quantum-safe protocols  
-- Applied focus: Machine learning for security, weighted ensemble models, and experimental quantum software stacks  
+- Applied focus: Quantum applied reseearch, Machine learning for security, and experimental quantum software stacks  
 - Contact: [jithinyakkara@gmail.com](mailto:jithinyakkara@gmail.com)
 
 ---
 
 ## Professional Experience
 
-**Quantum Communication Research Intern — IIT Roorkee**  
+**Quantum Communication Research Intern - IIT Roorkee**  
 Working under Prof. Sandeep Kumar Singh on quantum channels, quantum communication protocols, and secure communication frameworks.  
 **Duration:** December 2025 – July 2026
 
@@ -37,7 +37,7 @@ Working under Prof. Sandeep Kumar Singh on quantum channels, quantum communicati
 Developed responsive UI components and optimized user interfaces for web applications.  
 **Duration:** 2021 – 2022
 
-**Android Developer Intern — Google**  
+**Android Developer Intern - Google**  
 Contributed to Android app development and performance improvements.
 
 **Digital Marketer**  
@@ -102,11 +102,6 @@ Designed and executed digital strategies focused on growth and engagement.
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithinjithu10&layout=compact&theme=default" />
   <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jithinjithu10&theme=default" />
 </p>
-
----
-
-## Selected Outputs & Visualizations
-- Model visualizations, confusion matrices, and family-wise reports are available in the project's repository folders under `experiments/` for the Weighted Ensemble Model. (Include links to notebooks and result images in your repo for reproducibility.)
 
 ---
 
