@@ -2,6 +2,10 @@
 
 <h1 align="center">Hi, I'm Jithin S</h1>
 
+## 👀 Profile Views (Total)
+
+![Total Views](https://komarev.com/ghpvc/?username=jithinjithu10&label=Profile%20Views&color=0e75b6&style=flat)
+
 ---
 
 ## About
