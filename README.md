@@ -36,7 +36,6 @@
 | **Quantum Communication Research Intern** | IIT Roorkee | Dec 2025 – Jul 2026 | Quantum channels, secure protocols |
 | **React Developer (Part-Time)** | — | 2021 – 2022 | UI optimization, responsive design |
 | **Android Developer Intern** | Google | — | App development & performance |
-| **Digital Marketer** | — | — | Growth & engagement strategy |
 
 ---
 
