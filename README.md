@@ -67,13 +67,17 @@ I focus on **Quantum Communication** and **Quantum Cryptography**, with applied 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 **Tools** <br>
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
 
 ## Projects
 
@@ -95,16 +99,6 @@ I focus on **Quantum Communication** and **Quantum Cryptography**, with applied 
 <p> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jithinjithu10&layout=compact&theme=default" /> </p> 
 <!-- Streak Stats --> 
 <p> <img src="https://streak-stats.demolab.com?user=jithinjithu10&theme=default" /> </p>
-
-## 📊 GitHub Stats (Modern)
-
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jithinjithu10&show_icons=true&theme=dark&border_radius=10)
-</p>
-
-<p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jithinjithu10&layout=compact&theme=dark&border_radius=10)
-</p>
 
 ---
 
