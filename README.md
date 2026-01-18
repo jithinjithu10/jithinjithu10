@@ -2,10 +2,6 @@
 
 <h1 align="center">Hi, I'm Jithin S</h1>
 
-## 👀 Profile Views (Total)
-
-![Total Views](https://komarev.com/ghpvc/?username=jithinjithu10&label=Profile%20Views&color=0e75b6&style=flat)
-
 ---
 
 ## About
@@ -99,6 +95,16 @@ I focus on **Quantum Communication** and **Quantum Cryptography**, with applied 
 <p> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jithinjithu10&layout=compact&theme=default" /> </p> 
 <!-- Streak Stats --> 
 <p> <img src="https://streak-stats.demolab.com?user=jithinjithu10&theme=default" /> </p>
+
+## 📊 GitHub Stats (Modern)
+
+<p align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jithinjithu10&show_icons=true&theme=dark&border_radius=10)
+</p>
+
+<p align="center">
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jithinjithu10&layout=compact&theme=dark&border_radius=10)
+</p>
 
 ---
 
