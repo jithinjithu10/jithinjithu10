@@ -33,8 +33,19 @@ I focus on **Quantum Communication** and **Quantum Cryptography**, with applied 
 ![Quantum Communication](https://img.shields.io/badge/Quantum_Communication-000000?style=for-the-badge)
 ![Quantum Cryptography](https://img.shields.io/badge/Quantum_Cryptography-0A0A0A?style=for-the-badge)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=Qiskit&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-FF6F00?style=for-the-badge)
 ![Google Cirq](https://img.shields.io/badge/Google_Cirq-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
 ![IBM Quantum Composer](https://img.shields.io/badge/IBM_Quantum_Composer-052FAD?style=for-the-badge&logo=IBM&logoColor=white)
+![QuTiP](https://img.shields.io/badge/QuTiP-004D40?style=for-the-badge)
+![Amazon Braket](https://img.shields.io/badge/Amazon_Braket-FF9900?style=for-the-badge)
+![Braket SDK](https://img.shields.io/badge/Braket_SDK-FFB300?style=for-the-badge)
+![Azure Quantum](https://img.shields.io/badge/Azure_Quantum-0078D4?style=for-the-badge)
+![NetSquid](https://img.shields.io/badge/NetSquid-1B2631?style=for-the-badge)
+![ProjectQ](https://img.shields.io/badge/ProjectQ-283747?style=for-the-badge)
+![Strawberry Fields](https://img.shields.io/badge/Strawberry_Fields-8E24AA?style=for-the-badge)
+![PyZX](https://img.shields.io/badge/PyZX-4A148C?style=for-the-badge)
+![Stim](https://img.shields.io/badge/Stim-2E4053?style=for-the-badge)
+![QEC Simulator](https://img.shields.io/badge/Quantum_Error_Correction-1F618D?style=for-the-badge)
 
 **Programming** <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,15 +53,20 @@ I focus on **Quantum Communication** and **Quantum Cryptography**, with applied 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
 
 **Web & App Development** <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -58,6 +74,9 @@ I focus on **Quantum Communication** and **Quantum Cryptography**, with applied 
 
 **Machine Learning** <br>
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=ai&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-1B1F23?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-3A3A3A?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-5A5A5A?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -78,6 +97,15 @@ I focus on **Quantum Communication** and **Quantum Cryptography**, with applied 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger_OpenAPI-85EA2D?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge)
 
 ## Projects
 
