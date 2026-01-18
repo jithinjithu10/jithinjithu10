@@ -87,13 +87,14 @@ I focus on **Quantum Communication** and **Quantum Cryptography**, with applied 
 
 ##  GitHub Statistics
 
-![Profile Views](https://komarev.com/ghpvc/?username=jithinjithu10)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jithinjithu10&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jithinjithu10&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jithinjithu10)
+<!-- Visitor count -->
+<p> <img src="https://komarev.com/ghpvc/?username=jithinjithu10&color=blue&style=flat" /> </p> 
+<!-- GitHub Stats --> 
+<p> <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jithinjithu10&show_icons=true&theme=default" /> </p> 
+<!-- Top Languages --> 
+<p> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jithinjithu10&layout=compact&theme=default" /> </p> 
+<!-- Streak Stats --> 
+<p> <img src="https://streak-stats.demolab.com?user=jithinjithu10&theme=default" /> </p>
 
 ---
 
