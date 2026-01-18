@@ -2,6 +2,11 @@
 
 <h1 align="center">Hi, I'm Jithin S</h1>
 
+## ⭐ Support My Work
+
+If you find my projects useful or interesting, consider giving them a ⭐ on GitHub.  
+Your support helps motivate continued research and open-source contributions.
+
 ---
 
 ## About
