@@ -122,11 +122,11 @@ I focus on **Quantum Communication** and **Quantum Cryptography**, with applied 
 <!-- Visitor count -->
 <p><img src="https://komarev.com/ghpvc/?username=jithinjithu10&color=blue&style=flat" /> </p>
 <!-- GitHub Stats --> 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=jithinjithu10&show_icons=true&theme=default" />
+<img width ="32%" src="https://github-readme-stats-one-bice.vercel.app/api?username=jithinjithu10&show_icons=true&theme=default" />
 <!-- Top Languages --> 
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jithinjithu10&layout=compact&theme=default" /> 
+<img width ="32%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jithinjithu10&layout=compact&theme=default" /> 
 <!-- Streak Stats --> 
-<img src="https://streak-stats.demolab.com?user=jithinjithu10&theme=default" />
+<img width ="32%" src="https://streak-stats.demolab.com?user=jithinjithu10&theme=default" />
 
 ---
 
