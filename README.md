@@ -88,6 +88,7 @@ I focus on **Quantum Communication** and **Quantum Cryptography**, with applied 
 ##  GitHub Statistics
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jithinjithu10)
+![Test](https://github-readme-stats.vercel.app/api?username=jithinjithu10)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jithinjithu10)
 
