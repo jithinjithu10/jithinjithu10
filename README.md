@@ -132,7 +132,10 @@ I focus on **Quantum Communication** and **Quantum Cryptography**, with applied 
 <!-- Top Languages --> 
 <img width ="50%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jithinjithu10&layout=compact&theme=radical" /> 
 <!-- Streak Stats --> 
-<img width ="50%" src="https://streak-stats.demolab.com/?user=jithinjithu10&theme=github-light" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=jithinjithu10&show_icons=true&theme=github-light"
+  width="50%"
+/>
 <!-- Contribution Graph -->
 <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=jithinjithu10&theme=react" />
 </p>
