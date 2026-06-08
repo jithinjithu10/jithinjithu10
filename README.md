@@ -24,11 +24,13 @@ I focus on **Quantum Communication** and **Quantum Cryptography**, with applied 
 ---
 
 ## Professional Experience
+
 | Role | Organization | Duration | Focus |
-|----|----|----|----|
-| **Quantum Communication Research Intern** | IIT Roorkee | Dec 2025 – Jul 2026 | Quantum channels, secure protocols |
-| **React Developer (Part-Time)** | Simplicontract | 2021 – 2022 | UI optimization, responsive design |
-| **Android Developer Intern** | Google | 2022 | App development & performance |
+|------|-------------|----------|--------|
+| **Research Intern (Quantum Communication)** | IIT Roorkee | Dec 2025 – Jun 2026 | Quantum Communication, QKD, BB84 Protocol, Distributed Quantum Communication, Secure Communication Frameworks, SimulaQron-based Simulations |
+| **Founder & Academic Mentor** | JJ Academy | 2021 – 2024 | Mentored 100+ students in Computer Science, Mathematics, Programming, and Problem Solving |
+| **Student Placement Coordinator** | CUSAT | 2024 – 2026 | Placement Coordination, Technical Training and Management |
+| **Android Developer Intern** | Google | 2022 | Android Application Development and Mobile Development Practices |
 
 ---
 
