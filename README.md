@@ -114,11 +114,15 @@ I focus on **Quantum Communication** and **Quantum Cryptography**, with applied 
 
 ## Projects
 
-| Project | Description | Tech |
-|------|------------|------|
-| **Weighted Ensemble Malware Classifier** | 21 malware families, sigmoid router, expert fusion, family-wise metrics | PyTorch, ML |
-| **Fuel Delivery Management App** | Optimized logistics & delivery workflows | PHP |
-| **Product Management Web App** | Role-based inventory tracking | MERN Stack |
+## Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| **Mixture of Experts (MoE) for Malware Classification and Detection** | Developed a Mixture of Experts (MoE) framework for multi-task malware analysis, integrating specialized expert networks for malware family classification, packed/unpacked detection, and benign/malicious classification. Evaluated the model on 21 malware families using family-wise performance metrics and confusion matrix analysis. | PyTorch, Deep Learning, Computer Vision, Machine Learning |
+| **Distributed Quantum Key Distribution (QKD) Framework** | Developed a distributed hybrid quantum-classical secure communication framework based on the BB84 protocol. Implemented Alice-Bob architecture, synchronization mechanisms, quantum channel simulation, key management services, and ETSI-compliant APIs for secure key exchange. | Python, SimulaQron, FastAPI, Quantum Cryptography, QKD |
+| **Weighted Ensemble Malware Classifier** | Developed an ensemble-based malware detection system combining multiple deep learning models through weighted fusion to improve malware family classification accuracy and robustness. Evaluated performance using family-wise metrics and confusion matrix analysis. | PyTorch, Machine Learning, Deep Learning |
+| **Fuel Delivery Management App** | Built a fuel delivery management platform to streamline order processing, delivery tracking, route management, and customer operations. | PHP, MySQL, Web Development |
+| **Product Management Web Application** | Developed a role-based inventory and product management system with authentication, product tracking, stock management, and reporting features. | MongoDB, Express.js, React.js, Node.js (MERN Stack) |
 
 ---
 
